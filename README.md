@@ -9,7 +9,7 @@ The module answers the most important question: is the cat picture delivery syst
 ### usage
 
 ```js
-var connectivity = require('../')
+var connectivity = require('connectivity')
 
 connectivity(function (online) {
   if (online) {
