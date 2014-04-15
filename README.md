@@ -1,11 +1,10 @@
-# connectivity [![npm](https://img.shields.io/npm/v/connectivity.svg)](https://npmjs.org/package/connectivity) [![npm](https://img.shields.io/npm/dm/connectivity.svg)](https://npmjs.org/package/connectivity)
+# connectivity [![npm](https://img.shields.io/npm/v/connectivity.svg)](https://npmjs.org/package/connectivity)
 
 #### Detect if the network is up (do we have connectivity?)
 
 ![internet!](https://raw.githubusercontent.com/feross/connectivity/master/img.jpg)
 
-The module answers the most important question: is the cat picture delivery system
-(internet) connected and working?
+The module answers the most important question: is the cat picture delivery system (internet) working?
 
 ### usage
 
