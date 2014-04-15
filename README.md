@@ -4,7 +4,7 @@
 
 ![internet!](https://raw.githubusercontent.com/feross/connectivity/master/img.jpg)
 
-The module answers the most important question: is the cat picture delivery system (internet) working?
+The module answers the most important question: is the cat picture delivery system working?
 
 ### usage
 
