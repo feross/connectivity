@@ -8,7 +8,7 @@ var once = require('once')
 module.exports = function (cb) {
   var socket = net.connect({
     port: 80,
-    host: 'google.com'
+    host: 'example.com'
   })
 
   // If no 'error' or 'connect' event after 5s, assume network is down
