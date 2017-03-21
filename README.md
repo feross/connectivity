@@ -1,4 +1,13 @@
-# connectivity [![npm](https://img.shields.io/npm/v/connectivity.svg)](https://npmjs.org/package/connectivity)
+# connectivity [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+
+[travis-image]: https://img.shields.io/travis/feross/connectivity/master.svg
+[travis-url]: https://travis-ci.org/feross/connectivity
+[npm-image]: https://img.shields.io/npm/v/connectivity.svg
+[npm-url]: https://npmjs.org/package/connectivity
+[downloads-image]: https://img.shields.io/npm/dm/connectivity.svg
+[downloads-url]: https://npmjs.org/package/connectivity
+[standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
+[standard-url]: https://standardjs.com
 
 #### Detect if the network is up (do we have connectivity?)
 
