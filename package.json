@@ -1,7 +1,7 @@
 {
   "name": "connectivity",
   "description": "Detect if the network is up (do we have connectivity?)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
