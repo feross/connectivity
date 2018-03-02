@@ -20,7 +20,7 @@ module.exports = function (cb) {
     clearTimeout(timer)
     socket.unref()
     socket.end()
-    cb(!err)
+    cb(!err) // eslint-disable-line standard/no-callback-literal
   })
 
   socket.on('error', done)
